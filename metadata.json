@@ -1,0 +1,7 @@
+{
+  "name": "肴滚龙虾风暴 - B端工作台",
+  "description": "面向管理员、经理、代理商和推广员的全功能H5管理门户，具备角色权限隔离、红绿灯CRM管理及资源中心统计功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
